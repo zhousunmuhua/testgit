@@ -3,18 +3,3 @@
 33333333333333333333
 44444444444444444444
 55555555555555555555
-<<<<<<< Updated upstream
-77777777777777777777
-github修改了 17:58
-localhost write
-77373773737373737
-jejejejejejejejeje
-<<<<<<< HEAD
-git git git git 
-=======
-github github github
->>>>>>> 9316c9b42ffc620027f24bf6c32d3ea1ae951185
-<<<<<<< HEAD
-hjhjhjhjhjhjhj
-dddddddddddddddddddddddddddddd
->>>>>>> 460148534704e2f389e16e290564db39b2f57c54
